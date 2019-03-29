@@ -7,4 +7,10 @@ public class SimpleCalculator {
 	public int minus(int a, int b) {
 		return a - b;
 	}
+	public int mult(int a, int b) {
+		return a * b;
+	}
+	public int mod(int a, int b) {
+		return a % b;
+	}
 }
